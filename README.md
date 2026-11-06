@@ -1,126 +1,114 @@
-<!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Evo-32&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=20&descAlignY=58" width="100%" alt="Evo-32 banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=&fontSize=0" width="100%" />
 
-<a href="https://github.com/Evo-32">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Hello%2C+world!+%F0%9F%91%8B+I'm+Evo-32;I+turn+ideas+into+clean+code;I+love+solving+problems;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B" alt="Name banner" />
 
-<br/>
+### 𝚃𝚞𝚛𝚗𝚒𝚗𝚐 𝚌𝚘𝚏𝚏𝚎𝚎 𝚒𝚗𝚝𝚘 𝚌𝚘𝚍𝚎, 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚗𝚐𝚜 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚌𝚝𝚞𝚊𝚕𝚕𝚢 𝚞𝚜𝚎.
 
-<img src="https://komarev.com/ghpvc/?username=Evo-32&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/Evo-32?tab=followers"><img src="https://img.shields.io/github/followers/Evo-32?style=for-the-badge&logo=github&color=24292e" alt="Followers" /></a>
-<a href="https://github.com/Evo-32?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Open-Source+Tinkerer;Currently+learning+Rust+%F0%9F%A6%80;Professional+bug+whisperer" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=58a6ff)
 
 </div>
 
-<br/>
+---
 
-<!-- ===== ABOUT ===== -->
-## ✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+## ⚡ About Me
 
-> *"Make it work, make it right, make it fast."*
+- 🔭 **Currently building:** an open-source automation tool that kills repetitive dev chores
+- 🌱 **Currently learning:** Rust and low-level performance optimization
+- 🧠 **Obsessed with:** generative AI, UI micro-interactions, and clean architecture
+- 🤝 **Looking to collaborate on:** open-source projects, dev tooling, and AI-powered apps
+- 💬 **Ask me about:** React, FastAPI, Postgres, and why your Docker build is slow
+- ⚙️ **Philosophy:** make it work, make it right, make it fast, in that order
 
-Hey, I'm **Evo-32**, a developer who enjoys building things that are useful, clean and a little bit fun. I like understanding how things work under the hood, and I believe the best way to learn is to **build, break, and rebuild**.
+---
 
-I care about writing readable code, shipping small improvements often, and growing a little every single day. Whether it's a quick script or a full application, I want it to be something I'm proud of.
+## 🛠️ Tech Stack & Skills
 
-<br/>
+**Languages**
 
-| | |
-|---|---|
-| 🔭 **Currently working on** | Personal projects and sharpening my fundamentals |
-| 🌱 **Currently learning** | New frameworks, better architecture and problem solving |
-| 🤝 **Open to collaborating on** | Open-source, side projects and creative ideas |
-| 💬 **Ask me about** | Coding, tech, tools and how to get started |
-| ⚡ **Fun fact** | I can lose hours to a bug and still love every minute |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
+**Frameworks & Libraries**
 
-<!-- ===== WHAT I DO ===== -->
-## 🚀 𝙒𝙝𝙖𝙩 𝙄 𝘿𝙤
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<div align="center">
+**Tools & Databases**
 
-| 💻 **Build** | 🧠 **Learn** | 🔧 **Improve** | 🌍 **Share** |
-|:---:|:---:|:---:|:---:|
-| Apps, tools and scripts that solve real problems | New languages, concepts and technologies | Refactor, optimize and keep things clean | Grow with the community and help others |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+---
 
-<br/>
+## 🚀 Featured Projects
 
-<!-- ===== TECH STACK ===== -->
-## 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+| Project | Pitch | Stack |
+|---|---|---|
+| [**🤖 ProjectOne**](https://github.com/YOUR_USERNAME/project-one) | An automation tool that turns repetitive workflows into one-line commands. | `Python` `FastAPI` `Docker` |
+| [**🎨 ProjectTwo**](https://github.com/YOUR_USERNAME/project-two) | A slick dashboard with buttery micro-interactions and real-time data. | `Next.js` `TypeScript` `Tailwind` |
+| [**🦀 ProjectThree**](https://github.com/YOUR_USERNAME/project-three) | My Rust learning playground: a fast CLI tool built for speed. | `Rust` |
+| [**🧠 ProjectFour**](https://github.com/YOUR_USERNAME/project-four) | A generative-AI experiment that summarizes, classifies, and occasionally surprises. | `PyTorch` `Python` `Redis` |
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,github,docker,linux,vscode&theme=dark&perline=12" alt="Tech stack" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20React-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Linux-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- ===== STATS ===== -->
-## 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Evo-32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evo-32&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Evo-32&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Evo-32&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===== ACTIVITY ===== -->
-## 📈 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝘼𝙘𝙩𝙞𝙫𝙞𝙩𝙮
+## 🧪 Terminal Bio
+
+```bash
+$ whoami
+YOUR_NAME
+
+$ cat current_status.txt
+building: open-source automation tool
+learning: Rust 🦀
+fuelled_by: coffee ☕ + curiosity
+
+$ ./random_fact.sh
+> I once spent 3 hours debugging a typo. The typo won the first two rounds.
+
+$ echo "Let's build something great."
+Let's build something great.
+```
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Evo-32&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity graph" />
-</div>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-<!-- ===== CONNECT ===== -->
-## 🤝 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩
+*⭐ If something here sparked an idea, drop a star or say hi!*
 
-<div align="center">
-
-I'm always happy to chat about code, ideas or collaborations. Don't be shy and say hi! 👋
-
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen?style=flat-square" />
-<img src="https://img.shields.io/badge/Coffee-Powered-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" />
-
-<br/><br/>
-
-⭐ *If you like my work, feel free to star a repo!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
-
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="Footer" />
