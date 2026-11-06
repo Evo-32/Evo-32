@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Evodie%20Umuhuza&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20Young%20Professional%20%7C%20Always%20Learning&descSize=18&descAlignY=62" width="100%" />
 
+> *Currently coach at The Gym* 🌿💪
+
 </div>
 
 ## ⚡ About Me
