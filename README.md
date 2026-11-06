@@ -6,11 +6,11 @@
 
 ## ⚡ About Me
 
-- 💻 I am a developer who builds web applications, front end and back end.
-- 🌱 I am a young professional, and I am working to grow in my career step by step.
-- 🤝 I like sharing ideas and contributing to projects that matter.
-- 📚 I am always learning something new and improving how I work.
-- 🗣️ I speak English and French.
+- 💻 **What I Do:** Build full-stack web applications from front to back.
+- 🌱 **My Path:** A dedicated young professional growing my craft step by step.
+- 🤝 **Collaboration:** Big fan of brainstorming, sharing ideas, and contributing to projects with real-world impact.
+- 📚 **Forever Curious:** Constantly learning new technologies and refining my workflow.
+- 🗣️ **Languages:** English & French (*Bonjour !* 👋)
 
 ---
 
@@ -59,8 +59,6 @@ I do not just want to build things for myself. I want to:
 If you are working on something that matters, I would be glad to help.
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
