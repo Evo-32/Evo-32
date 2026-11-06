@@ -69,8 +69,6 @@ If you are working on something that matters, I would be glad to help.
 
 </div>
 
----
-
 ## 📫 Connect With Me
 
 I am adaptable and sociable, and I express myself well in words. If you have an idea, a project, or just want to talk, reach out.
